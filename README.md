@@ -1,2 +1,2 @@
-#GIT
+GIT
 My first git tutorial
